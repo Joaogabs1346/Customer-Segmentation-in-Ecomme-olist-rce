@@ -1,4 +1,4 @@
-# Customer-Segmentation-in-Ecomme-olist-rce
+# Customer-Segmentation-in-Ecommerce-olist-
  Olist's Customer Segmentation Project... All data is public and can be found on Kaggle.
 
 
